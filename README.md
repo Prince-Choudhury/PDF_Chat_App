@@ -4,8 +4,9 @@ Welcome to the PDF Chat App! This web application allows you to chat with a chat
 
 This app is an LLM (Large Language Model)-powered chatbot built using the following technologies:
 
-- **Streamlit:** A Python library for creating web apps with ease.
-- **LangChain:** Providing natural language processing capabilities.
+- **Streamlit:** A Python library that simplifies the process of creating web applications, ensuring a seamless and user-friendly experience.
+- **LangChain:** LangChain provides the natural language processing capabilities that empower the chatbot to understand and generate human-like text.
+- **OpenAI LLM Model:** The app harnesses the power of the OpenAI Large Language Model to provide accurate and context-aware responses in natural language.
 
 ## Getting Started
 
