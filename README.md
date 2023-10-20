@@ -2,6 +2,11 @@
 
 Welcome to the PDF Chat App! This web application allows you to chat with a chatbot powered by the OpenAI language model. It is designed to extract text from uploaded PDF files and answer your questions based on the content of the PDF.
 
+This app is an LLM (Large Language Model)-powered chatbot built using the following technologies:
+
+- **Streamlit:** A Python library for creating web apps with ease.
+- **LangChain:** Providing natural language processing capabilities.
+
 ## Getting Started
 
 Follow these steps to set up the PDF Chat App on your local machine:
